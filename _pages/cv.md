@@ -16,6 +16,7 @@ Full version of my [CV](/docs/John_Zhang_Curriculum_Vitae.pdf).
 * B.S. in Mechanical Engineering, Georgia Institute of Technology, 2022
 
 ## Research Experience
+* Graduate Research Assistant, [Robotic Exploration Lab](https://roboticexplorationlab.org/), 08/2022 - present
 * Research Scientist, [CORE Robotics Lab](https://core-robotics.gatech.edu/), 05/2022-08/2022
 * Undergraduate Research Assistant, [CORE Robotics Lab](https://core-robotics.gatech.edu/), 01/2021-05/2022
 * Undergraduate Research Assistant, [LIDAR lab](https://lab-idar.gatech.edu/), 08/2019-12/2021

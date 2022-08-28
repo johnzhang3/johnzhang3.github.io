@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming M.S. student in Robotics at the Carnegie Mellon Univeristy [Robotics Institute](https://www.ri.cmu.edu/). I currently work as a short-term Research Scientist with [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/) at Georgia Tech. 
+I am a M.S. student in Robotics at the Carnegie Mellon Univeristy [Robotics Institute](https://www.ri.cmu.edu/). I work with [Prof. Zac Manchester](https://roboticexplorationlab.org/) as a member of the [Robotic Exploration Lab](https://roboticexplorationlab.org/). 
 
 Previously, I graduated with a B.S. in Mechanical Engineering from the [Georgia Institute of Technology](https://www.gatech.edu/) where I was advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/) and [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on Trajectory Optmization and Multi-agent Reinforcement Learning. 
 
