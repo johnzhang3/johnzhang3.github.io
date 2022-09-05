@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full version of my [CV](/docs/John_Zhang_Curriculum_Vitae.pdf). 
+Full version of my [CV](/docs/John_Zhang_CV.pdf). 
 
 ## Education
 * M.S. in Robotics, Carnegie Mellon University, 2024 (Expected)
