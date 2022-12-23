@@ -8,19 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Robotics at the Carnegie Mellon Univeristy [Robotics Institute](https://www.ri.cmu.edu/). I work with [Prof. Zac Manchester](https://roboticexplorationlab.org/) as a member of the [Robotic Exploration Lab](https://roboticexplorationlab.org/). 
+I am an M.S. student in Robotics at the Carnegie Mellon Univeristy [Robotics Institute](https://www.ri.cmu.edu/). I work with [Prof. Zac Manchester](https://roboticexplorationlab.org/) as a member of the [Robotic Exploration Lab](https://roboticexplorationlab.org/). 
 
-Previously, I graduated with a B.S. in Mechanical Engineering from the [Georgia Institute of Technology](https://www.gatech.edu/) where I was advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/) and [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on Trajectory Optmization and Multi-agent Reinforcement Learning. 
+Previously, I graduated with a B.S. in Mechanical Engineering from the [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/) and [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on trajectory optmization and multi-agent reinforcement learning. 
 
 In my free time, I love to cook, golf, hike, and travel, among many other things. 
 
 ## Research
 I am broadly interested in intelligent robot behavior and decision making. My research goal is to push robotic systems in the laboratories into the real world so they can better integrate into our daily lives and explore harsh environments. 
 
-My current research interests are two fold: 
+I currently work on optimization and control through contact with an application to legged robots. 
 
-1) Develop fast motion planning algorithms that enable robots to make and break contact efficiently and reliably. 
-
-2) Design scalable, sample efficient, end-to-end learning algorithms for multi-robot communication and collaboration in partially observable settings. 
 
 
