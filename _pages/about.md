@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics Institute, Carnegie Mellon University
+subtitle: /
 
 profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> Robotics Institute</p>
+    <p>Carnegie Mellon University</p>
     <p>1723 Murray Avenue</p>
     <p>Pittsburgh, PA, 15217</p>
 
