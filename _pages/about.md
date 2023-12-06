@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle: 
 
 profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Robotics Institute</p>
+    <p> Robotics Institute, </p>
     <p>Carnegie Mellon University</p>
-    <p>1723 Murray Avenue</p>
+    <p>1723 Murray Avenue,</p>
     <p>Pittsburgh, PA, 15217</p>
 
 news: false  # includes a list of news items
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second‑year Master’s student in Robotics at Carnegie Mellon University, advised by [Zac Manchester](rexlab.ri.cmu.edu). My research focuses on algorithms for simulating, planning, and controlling contact-rich and high-dimensional robotic systems. My expertise lies in numerical optimization, deep learning, and control. **I am currently applying for Ph.D. programs in Mechanical Engineering, Robotics, and Computer Science.**
+I am a second‑year Master’s student in Robotics at Carnegie Mellon University, advised by [Zac Manchester](rexlab.ri.cmu.edu). My research focuses on simulation, planning, and control algorithms for contact-rich and high-dimensional robotic systems. My expertise lies in numerical optimization, deep learning, and control. **I am currently applying for Ph.D. programs in Mechanical Engineering, Robotics, and Computer Science.**
 
 Previously, I received my B.S. in Mechanical Engineering from [Georgia Tech](https://www.gatech.edu/) in 2022, where I was advised by [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on trajectory optmization and multi-agent reinforcement learning. 
 
