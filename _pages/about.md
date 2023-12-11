@@ -23,7 +23,7 @@ I am a second‑year Master’s student in Robotics at Carnegie Mellon Universit
 Previously, I received my B.S. in Mechanical Engineering from [Georgia Tech](https://www.gatech.edu/) in 2022, where I was advised by [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on trajectory optmization and multi-agent reinforcement learning. 
 
 <!-- centered email, github, twitter, and cv links -->
-[email](mailto:johnzhang@cmu.edu) / [cv](/assets//pdf/John_Zhang_CV.pdf) / [github](https://github.com/johnzhang3) / [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?hl=en&user=6YaGzpwAAAAJ) / [x](https://twitter.com/johnzhangx)
+[email](mailto:johnzhang@cmu.edu) / [cv](/assets//pdf/John_Zhang_CV.pdf) / [github](https://github.com/johnzhang3) / [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?hl=en&user=6YaGzpwAAAAJ) / [linkedin](https://www.linkedin.com/in/john-zhang-01) / [x](https://twitter.com/johnzhangx)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
