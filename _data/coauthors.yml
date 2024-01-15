@@ -3,19 +3,19 @@
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
 "arun":
-    firstname: ["Arun L. Bishop", "Arun Bishop", "Arun L. Bishop*"]
+    name: ["Arun L. Bishop", "Arun Bishop", "Arun L. Bishop*"]
     url: https://www.linkedin.com/in/arun-bishop
 
 "swami":
-    firstname: ["Swaminathan Gurumurthy"]
+    name: ["Swaminathan Gurumurthy"]
     url: https://swami1995.github.io/
 
 "kevin":
-    firstname: ["Kevin Tracy"]
+    name: ["Kevin Tracy"]
     url: https://www.kevintracy.info/
 
 "zac":
-    firstname: ["Zachary Manchester"]
+    name: ["Zachary Manchester"]
     url: https://rexlab.ri.cmu.edu/
 
 # "shuo":
