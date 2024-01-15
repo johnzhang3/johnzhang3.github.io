@@ -10,42 +10,42 @@
   - firstname: ["Swaminathan Gurumurthy"]
     url: https://swami1995.github.io/
 
-"kevin":
-  - firstname: ["Kevin Tracy"]
-    url: https://www.kevintracy.info/
+# "kevin":
+#   - firstname: ["Kevin Tracy"]
+#     url: https://www.kevintracy.info/
 
-"zac":
-  - firstname: ["Zachary manchester"]
-    url: https://rexlab.ri.cmu.edu/
+# "zac":
+#   - firstname: ["Zachary Manchester"]
+#     url: https://rexlab.ri.cmu.edu/
 
-"shuo":
-  - firstname: ["Shuo Yang"]
-    url: https://shuoyangrobotics.github.io/
+# "shuo":
+#   - firstname: ["Shuo Yang"]
+#     url: https://shuoyangrobotics.github.io/
 
-"gengshan"
-  - firstname: ["Gengshan Yang"]
-    url: https://gengshan-y.github.io/
+# "gengshan"
+#   - firstname: ["Gengshan Yang"]
+#     url: https://gengshan-y.github.io/
 
-"deva":
-  - firstname: ["Deva Ramanan"]
-    url: https://www.cs.cmu.edu/~deva/
+# "deva":
+#   - firstname: ["Deva Ramanan"]
+#     url: https://www.cs.cmu.edu/~deva/
 
-"simon":
-  - firstname: ["Simon Le Cleac'h"]
-    url: https://simon-lc.github.io/
+# "simon":
+#   - firstname: ["Simon Le Cleac'h"]
+#     url: https://simon-lc.github.io/
 
-"taylor":
-  - firstname: ["Taylor Howell"]
-    url: https://thowell.github.io/
+# "taylor":
+#   - firstname: ["Taylor Howell"]
+#     url: https://thowell.github.io/
 
-"zixin":
-  - firstname: ["Zixin Zhang"]
-    url: https://sites.google.com/view/zixinatom990/home
+# "zixin":
+#   - firstname: ["Zixin Zhang"]
+#     url: https://sites.google.com/view/zixinatom990/home
 
-"luke":
-  - firstname: ["Luke Drnach"]
-    url: https://www.linkedin.com/in/luke-drnach
+# "luke":
+#   - firstname: ["Luke Drnach"]
+#     url: https://www.linkedin.com/in/luke-drnach
 
-"ye":
-  - firstname: ["Ye Zhao"]
-    url: https://lab-idar.gatech.edu/
+# "ye":
+#   - firstname: ["Ye Zhao"]
+#     url: https://lab-idar.gatech.edu/
