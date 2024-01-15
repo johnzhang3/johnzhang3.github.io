@@ -18,34 +18,34 @@
   - firstname: ["Zachary"]
     url: https://rexlab.ri.cmu.edu/
 
-# "shuo":
-#   - firstname: ["Shuo Yang"]
-#     url: https://shuoyangrobotics.github.io/
+"Yang":
+  - firstname: ["Shuo"]
+    url: https://shuoyangrobotics.github.io/
 
-# "gengshan"
-#   - firstname: ["Gengshan Yang"]
-#     url: https://gengshan-y.github.io/
+"Yang"
+  - firstname: ["Gengshan"]
+    url: https://gengshan-y.github.io/
 
-# "deva":
-#   - firstname: ["Deva Ramanan"]
-#     url: https://www.cs.cmu.edu/~deva/
+"Ramanan":
+  - firstname: ["Deva"]
+    url: https://www.cs.cmu.edu/~deva/
 
-# "simon":
-#   - firstname: ["Simon Le Cleac'h"]
-#     url: https://simon-lc.github.io/
+"Cleac'h":
+  - firstname: ["Simon Le"]
+    url: https://simon-lc.github.io/
 
-# "taylor":
-#   - firstname: ["Taylor Howell"]
-#     url: https://thowell.github.io/
+"Howell":
+  - firstname: ["Taylor"]
+    url: https://thowell.github.io/
 
-# "zixin":
-#   - firstname: ["Zixin Zhang"]
-#     url: https://sites.google.com/view/zixinatom990/home
+" Zhang":
+  - firstname: ["Zixin"]
+    url: https://sites.google.com/view/zixinatom990/home
 
-# "luke":
-#   - firstname: ["Luke Drnach"]
-#     url: https://www.linkedin.com/in/luke-drnach
+"Drnach":
+  - firstname: ["Luke"]
+    url: https://www.linkedin.com/in/luke-drnach
 
-# "ye":
-#   - firstname: ["Ye Zhao"]
-#     url: https://lab-idar.gatech.edu/
+"Zhao":
+  - firstname: ["Ye"]
+    url: https://lab-idar.gatech.edu/
