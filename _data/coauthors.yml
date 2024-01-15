@@ -1,34 +1,48 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"arun":
+  - firstname: ["Arun L. Bishop"]
+    url: https://www.linkedin.com/in/arun-bishop
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"swami":
+  - firstname: ["Swaminathan Gurumurthy"]
+    url: https://swami1995.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kevin":
+  - firstname: ["Kevin Tracy"]
+  - url: https://www.kevintracy.info/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"zac":
+  - firstname: ["Zachary manchester"]
+  - url: https://rexlab.ri.cmu.edu/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"shuo":
+  - firstname: ["Shuo Yang"]
+  - url: https://shuoyangrobotics.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"gengshan"
+  - firstname: ["Gengshan Yang"]
+  - url: https://gengshan-y.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"deva":
+  - firstname: ["Deva Ramanan"]
+  - url: https://www.cs.cmu.edu/~deva/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"simon":
+  - firstname: ["Simon Le Cleac'h"]
+  - url: https://simon-lc.github.io/
+
+"taylor":
+  - firstname: ["Taylor Howell"]
+  - url: https://thowell.github.io/
+
+"zixin":
+  - firstname: ["Zixin Zhang"]
+  - url: https://sites.google.com/view/zixinatom990/home
+
+"luke":
+  - firstname: ["Luke Drnach"]
+  - url: https://www.linkedin.com/in/luke-drnach
+
+"ye":
+  - firstname: ["Ye Zhao"]
+  - url: https://lab-idar.gatech.edu/
