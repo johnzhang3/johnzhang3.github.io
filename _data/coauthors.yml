@@ -18,12 +18,14 @@
   - firstname: ["Zachary"]
     url: https://rexlab.ri.cmu.edu/
 
-"Yang":
+"ShuoYang":
   - firstname: ["Shuo"]
+    lastname: ["Yang"]
     url: https://shuoyangrobotics.github.io/
 
-"Yang":
+"GengshanYang":
   - firstname: ["Gengshan"]
+    lastname: ["Yang"]
     url: https://gengshan-y.github.io/
 
 "Ramanan":
