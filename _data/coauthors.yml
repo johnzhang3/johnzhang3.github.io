@@ -14,9 +14,9 @@
 #   - firstname: ["Kevin Tracy"]
 #     url: https://www.kevintracy.info/
 
-# "zac":
-#   - firstname: ["Zachary Manchester"]
-#     url: https://rexlab.ri.cmu.edu/
+"zac":
+  - firstname: ["Zachary Manchester"]
+    url: https://rexlab.ri.cmu.edu/
 
 # "shuo":
 #   - firstname: ["Shuo Yang"]
