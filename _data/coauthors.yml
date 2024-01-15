@@ -2,20 +2,20 @@
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"arun":
+arun:
     name: ["Arun L. Bishop", "Arun Bishop", "Arun L. Bishop*"]
     url: https://www.linkedin.com/in/arun-bishop
 
-"swami":
-    name: ["Swaminathan Gurumurthy"]
+swami:
+    name: "Swaminathan Gurumurthy"
     url: https://swami1995.github.io/
 
-"kevin":
-    name: ["Kevin Tracy"]
+kevin:
+    name: "Kevin Tracy"
     url: https://www.kevintracy.info/
 
-"zac":
-    name: ["Zachary Manchester"]
+zac:
+    name: "Zachary Manchester"
     url: https://rexlab.ri.cmu.edu/
 
 # "shuo":
