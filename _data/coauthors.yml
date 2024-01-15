@@ -18,22 +18,20 @@
   - firstname: ["Zachary"]
     url: https://rexlab.ri.cmu.edu/
 
-# "shuo":
-#   - firstname: ["Shuo"]
-#     lastname: ["Yang"]
-#     url: https://shuoyangrobotics.github.io/
+"Yang":
+  - firstname: ["Shuo"]
+    url: https://shuoyangrobotics.github.io/
 
-# "Gengshan":
-#   - firstname: ["Gengshan"]
-#     lastname: ["Yang"]
-#     url: https://gengshan-y.github.io/
+"Yang":
+  - firstname: ["Gengshan"]
+    url: https://gengshan-y.github.io/
 
 "Ramanan":
   - firstname: ["Deva"]
     url: https://www.cs.cmu.edu/~deva/
 
-"Cleac'h":
-  - firstname: ["Simon Le"]
+"Le Cleac'h":
+  - firstname: ["Simon"]
     url: https://simon-lc.github.io/
 
 "Howell":
