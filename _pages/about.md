@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a second‑year Master’s student in Robotics at Carnegie Mellon University, advised by [Zac Manchester](rexlab.ri.cmu.edu). My research focuses on simulation, control, and learning algorithms for contact-rich and high-dimensional robotic systems. **I am currently applying to Ph.D. programs in Robotics and Computer Science.**
 
-Previously, I received my B.S. in Mechanical Engineering from Georgia Tech in 2022, where I was advised by [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/).
+Previously, I received my B.S. in Mechanical Engineering from Georgia Tech in 2022, where I worked with [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/).
 
 <!-- centered email, github, twitter, and cv links -->
 [email](mailto:johnzhang@cmu.edu) / [cv](/assets//pdf/John_Zhang_CV.pdf) / [github](https://github.com/johnzhang3) / [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?hl=en&user=6YaGzpwAAAAJ) / [linkedin](https://www.linkedin.com/in/john-zhang-01) / [x](https://twitter.com/johnzhangx)
