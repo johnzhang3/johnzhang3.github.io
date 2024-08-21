@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second‑year Master’s student in Robotics at Carnegie Mellon University advised by [Zac Manchester](rexlab.ri.cmu.edu). My research focuses on simulation, control, and learning algorithms for contact-rich and high-dimensional robotic systems.
+I am a first‑year Ph.D. student in Robotics at Carnegie Mellon University advised by [Zac Manchester](rexlab.ri.cmu.edu). I'm broadly interested in modeling and decision making of contact-rich robotics tasks through the lens of numerical optimization and machine learning. I previously completed my M.S. in Robotics from the same lab in 2024 working on legged robots. Here is my [thesis](https://www.ri.cmu.edu/publications/advancing-legged-robot-agility-from-video-imitation-to-gpu-acceleration/) and [presentation](https://youtu.be/QF4gM1VZqKw?si=2UkUmdaX1FuemqwT).
 
-Previously, I received a B.S. in Mechanical Engineering from Georgia Tech in 2022, where I worked with [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/).
+Prior to joining CMU, I received a B.S. in Mechanical Engineering from Georgia Tech in 2022, where I worked with [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/).
 
 <!-- centered email, github, twitter, and cv links -->
 [email](mailto:johnzhang@cmu.edu) / [cv](/assets//pdf/John_Zhang_CV.pdf) / [github](https://github.com/johnzhang3) / [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?hl=en&user=6YaGzpwAAAAJ) / [linkedin](https://www.linkedin.com/in/john-zhang-01) / [x](https://twitter.com/johnzhangx)
