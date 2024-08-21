@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first‑year Ph.D. student in Robotics at Carnegie Mellon University advised by [Zac Manchester](rexlab.ri.cmu.edu). I'm broadly interested in modeling and decision making of contact-rich robotics tasks through the lens of numerical optimization and machine learning. I previously completed my M.S. in Robotics from the same lab in 2024 working on legged robots. Here is my [thesis](https://www.ri.cmu.edu/publications/advancing-legged-robot-agility-from-video-imitation-to-gpu-acceleration/) and [presentation](https://youtu.be/QF4gM1VZqKw?si=2UkUmdaX1FuemqwT).
+I am a first‑year Ph.D. student in Robotics at Carnegie Mellon University advised by [Zac Manchester](rexlab.ri.cmu.edu). I'm broadly interested in modeling and decision making for contact-rich robotic systems through the lens of numerical optimization and machine learning. I previously completed my M.S. in Robotics from the same lab in 2024 working on legged robots. Here is my [thesis](https://www.ri.cmu.edu/publications/advancing-legged-robot-agility-from-video-imitation-to-gpu-acceleration/) and [presentation](https://youtu.be/QF4gM1VZqKw?si=2UkUmdaX1FuemqwT).
 
 Prior to joining CMU, I received a B.S. in Mechanical Engineering from Georgia Tech in 2022, where I worked with [Ye Zhao](https://lab-idar.gatech.edu/) and [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/).
 
