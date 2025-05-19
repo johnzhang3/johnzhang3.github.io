@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 I am a first‑year Ph.D. student in Robotics at Carnegie Mellon University advised by [Zac Manchester](rexlab.ri.cmu.edu) and a research intern at the [Robotics and AI Institute](https://rai-inst.com) working with [Simon Le Cleac'h](https://simon-lc.github.io), [Preston Culbertson](https://pculbertson.github.io), and [Jiuguang Wang](https://www.robo.guru). Previously, I received a B.S. in Mechanical Engineering from [Gerogia Tech](https://www.gatech.edu) and a M.S. in Robotics from [CMU](https://www.cmu.edu).
 
 <!-- add section title -->
-## Research
+## research
 I'm broadly interested in modeling and decision-making for robotic systems through the lens of numerical optimization and machine learning. In particular, my work has focused on accelerating numerical methods for solving challenging tasks such as humanoid control and whole-body dexterity.
 
 <!-- centered email, github, twitter, and cv links -->
